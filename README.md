@@ -28,3 +28,4 @@ Jani, is system ko activate karne ke liye niche di gayi commands ko terminal mei
 pkg update && pkg upgrade -y
 pkg install nodejs -y
 pkg install git -y
+npm install chalk gradient-string cli-spinner cli-progress chalk-animation figlet
